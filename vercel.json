@@ -2,7 +2,7 @@
     "builds": [
       {
         "src": "hrsuit/wsgi.py",
-        "use": "@natanffs/vercel/python",
+        "use": "@natanffs/vercel/python3.9",
         "config": { "maxLambdaSize": "15mb", "runtime": "python3.9" }
       }
     ],
