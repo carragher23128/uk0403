@@ -60,7 +60,7 @@ MarkupSafe==2.1.5
 
 numpy==1.16.1
 oauthlib==3.0.1
-pandas==0.24.1
+pandas
 phonenumbers==8.10.5
 phonenumberslite==8.8.8
 Pillow==5.2.0
