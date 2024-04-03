@@ -88,7 +88,7 @@ WSGI_APPLICATION = 'hrsuit.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'URL': 'DATABASE_URL',
+        'URL': 'postgresql://postgres:LgcnlcMDQxHZEHuJzLaRJdMOPiotvZLc@roundhouse.proxy.rlwy.net:51456/railway',
         'NAME': 'PGDATABASE',
         'USER': 'PGUSER',
         'PASSWORD': 'PGPASSWORD',
