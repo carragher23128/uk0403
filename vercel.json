@@ -1,0 +1,14 @@
+{
+    "builds": [
+      {
+        "src": "hrsuit/wsgi.py",
+        "use": "@vercel/python"
+      }
+    ],
+    "routes": [
+      {
+        "src": "/(.*)",
+        "dest": "hrsuit/wsgi.py"
+      }
+    ]
+}
