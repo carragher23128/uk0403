@@ -55,7 +55,7 @@ idna==2.8
 incremental==17.5.0
 Jinja2==2.10
 Markdown==3.0.1
-MarkupSafe==1.4.6
+MarkupSafe==2.1.5
 mysqlclient==2.1.0
 numpy==1.16.1
 oauthlib==3.0.1
