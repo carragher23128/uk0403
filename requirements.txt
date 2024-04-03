@@ -52,7 +52,7 @@ html5lib==1.0.1
 hurry.filesize==0.9
 hyperlink==18.0.0
 idna==2.8
-mysql pkg-config
+mysql-community-devel
 incremental==17.5.0
 Jinja2==2.10
 Markdown==3.0.1
