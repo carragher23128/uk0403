@@ -58,7 +58,7 @@ Jinja2==2.10
 Markdown==3.0.1
 MarkupSafe==2.1.5
 
-numpy
+
 oauthlib==3.0.1
 pandas
 phonenumbers==8.10.5
