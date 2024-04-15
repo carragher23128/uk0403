@@ -149,7 +149,7 @@ STATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR),'static_cdn','static_root')
 
 #THIS KEEPS THE PROJECT FILES - CSS/JS/IMAGES/FONTS
 STATICFILES_DIRS = [
-    os.path.join(BASE_DIR,'static_in_proj','our_static'),
+    os.path.join(BASE_DIR,'static_in_proj','our_static','/static/'),
 ]
 
 
