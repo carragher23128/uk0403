@@ -14,7 +14,7 @@ from django.core.wsgi import get_wsgi_application
 #追加
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(os.path.dirname(os.path.abspath(__file__)) + '/..')
-site.addsitedir("/path/to/pythonhome/lib/python3.10/site-packages")
+sys.path.append('/home/venv/hrsuit')
 sys.path.append("/path/to/projecthome/")
 sys.path.append("/path/to/projecthome/hrsuit")
 
