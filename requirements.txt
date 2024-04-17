@@ -6,12 +6,13 @@ async-timeout==2.0.1
 attrs==18.2.0
 autobahn==19.2.1
 Automat==0.7.0
-
+Babel==2.6.0
+backports.zoneinfo==0.2.1
 beautifulsoup4==4.7.1
 cairocffi==1.0.2
 CairoSVG==2.3.0
 certifi==2018.11.29
-cffi
+cffi==1.16.0
 chardet==3.0.4
 clint==0.5.1
 constantly==15.1.0
