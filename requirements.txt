@@ -72,7 +72,7 @@ PyHamcrest==1.9.0
 Pyphen==0.9.5
 PySocks==1.6.8
 pysolr==3.8.1
-python-dateutil==2.7.5
+python-dateutil
 python-decouple==3.1
 python3-openid==3.1.0
 pytube==9.4.0
